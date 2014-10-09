@@ -1,1 +1,0 @@
-print("Schema Gosia")
