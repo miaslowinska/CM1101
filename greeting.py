@@ -1,1 +1,1 @@
-print("Schema Gosia")
+print("Siema James")
